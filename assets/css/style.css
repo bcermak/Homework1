@@ -70,6 +70,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* RE-ORDERED FOR H TAG CONTENTS */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -181,7 +182,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* ADDED FOR FOOTER */
 .footer {
     padding: 30px;
     clear: both;
@@ -189,7 +190,7 @@ p {
     text-align: center;
     
 }
-
+/* added to accommodate new H4 tag */
 .footer h4 {
     font-size: 20px;
 }
